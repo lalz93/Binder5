@@ -72,3 +72,6 @@ For release, build the JupyterLab extension to bundle with the Python package:
 ```
 $ python setup.py build_js
 ```
+
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lalz93/Binder5/master)

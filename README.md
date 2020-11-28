@@ -1,4 +1,9 @@
 # Jupyter Dash
+
+This repo was cloned in order to develop a Binder for my application. 
+
+
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/plotly/jupyter-dash/master?urlpath=tree/notebooks/getting_started.ipynb)
 
 This library makes it easy to develop Plotly Dash apps interactively from within Jupyter environments (e.g. classic Notebook, JupyterLab, Visual Studio Code notebooks, nteract, PyCharm notebooks, etc.).

@@ -1,6 +1,6 @@
 # Jupyter Dash
 
-This repo was cloned in order to develop a Binder for my application. 
+This repo was cloned in order to develop a Binder for my application, available on Notebook folder titled as AppDash.
 
 
 
